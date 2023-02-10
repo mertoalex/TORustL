@@ -8,7 +8,7 @@ cargo build
 
 ## to run
 ```bash
-sudo cp target/debug/torustl //or replace "sudo" with "doas"
+sudo cp target/debug/torustl #or replace "sudo" with "doas"
 ```
 
 ### files:
